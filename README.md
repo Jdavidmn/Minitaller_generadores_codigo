@@ -1,5 +1,12 @@
 # Minitallear_generadores_codigo
 
+## Seteo de los paquetes necesarios para compilar código C++
+
+1. Utilice el siguiente comando para instalar los paquetes necesarios:
+```bash
+apt install build-essential meson ninja-build unzip
+```
+
 ## Seteo del ambiente para utilizar Matlab
 
 1. Para este taller se va a utilizar el servidor de Electrónica para acceder a Matlab, ingrese al siguiente enlace [Enlace](https://virtual.ie.tec.ac.cr/) para acceder al servidor o si utiliza la aplicación puede también abrirla.
