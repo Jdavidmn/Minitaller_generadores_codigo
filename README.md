@@ -6,7 +6,7 @@
 
 2. Una vez dentro, ingrese a su usuario y acceda a la máquina llamada **RDS-Matlab-01**.
 
-**A partir de este punto la guía se realiza dentro de la máquina virtual en caso de que se diga lo contrario**.
+**A partir de este punto la guía se realiza dentro de la máquina virtual en caso de que se diga lo contrario, para realizar los puntos 3 y 4 abra el repositorio en el navegador**.
 
 3. Del siguiente enlace descargue este archivo para utilizar git [Enlace](https://github.com/git-for-windows/git/releases/download/v2.42.0.windows.2/Git-2.42.0.2-64-bit.exe). Ejecute el archivo y siga la guía de instalación.
 
@@ -15,4 +15,3 @@
 ```bash
 git clone https://github.com/Jdavidmn/Minitallear_generadores_codigo.git
 ```
-
