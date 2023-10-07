@@ -2,5 +2,5 @@ n = 10;
 
 fib_series = fibonacci_series(n);
 
-disp('Serie Fibonacci:');
-disp(fib_series)
+fprintf('Primeros %d términos de la serie de fibonacci:', n);
+disp(fib_series);
