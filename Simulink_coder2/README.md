@@ -1,0 +1,7 @@
+# Generación y ejecución de código usando Simulink Coder
+
+1. Dentro de la máquina virtual, abra dentro de Simulink el archivo *Heli_2dof.slx*, este es la simulación del controlador de un helicóptero con 2 grados de libertad, el cual se modeló y controló en el Laboratorio de Control Automático.
+2. Seleccione en el diagrama las señales denotadas como *referencia* y *salida*, para seleccionar todas puede presionar la tecla Shift y hacer click en cada una. Teniendo estas 3 señales seleccionadas, haga click en **Log Signals**, botón ubicado en la pestaña de SIMULATION.
+3. Presione el botón **Run** y abra el scope4. **Tome una captura de pantalla de las señales generadas**.
+4. Haga click en **Data Inspector**, en la pestaña de SIMULATION, dentro de la ventana que se abre, en el menú *Inspect* marque las casillas de las señales antes marcadas, las 2 de *referencia* y las **DOS** señales de salida, esta señal es en realidad vectorial y contiene 2 señales que puede ver dando click en la pequeña flecha a la izquierda del nombre, asegúrese de no seleccionar la señal vectorial, sino individualmente las 2 que contiene. **Tome captura de pantalla de la gráfica mostrada en esta ventana**. **IMPORTANTE**, no cierre esta ventana, solamente se debe minimizar, más adelante se necesita nuevamente.
+5. 
