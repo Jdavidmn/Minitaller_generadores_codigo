@@ -8,6 +8,7 @@ model='rtwdemo_rtwintro';
 open_system(model)
 ```
 Esto tuvo que abrir un archivo de ejemplo de Simulink. El diagrama corresponde con un contador de 8 bits que alimentaun subsistema con un *trigger*, con parámetros *INC*, *LIMIT* y *RESET*. El amplificador, amplifica la señal de entrada por un factor *K* cuando la señal *equal_to_count* está en alto.
+
 2. Abra el **Simulink Coder**, está en la pestaña de APPS.
 3. Abra el menú **Settings**.
 4. Diríjase en la pestaña de **Code Generation**.
