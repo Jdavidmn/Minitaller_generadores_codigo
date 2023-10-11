@@ -4,7 +4,7 @@
 
 1. Utilice el siguiente comando para instalar los paquetes necesarios:
 ```bash
-apt install build-essential meson ninja-build unzip
+sudo apt install build-essential meson ninja-build unzip
 ```
 
 ## Seteo del ambiente para utilizar Matlab
