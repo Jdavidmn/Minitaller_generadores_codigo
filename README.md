@@ -1,4 +1,4 @@
-# Minitallear_generadores_codigo
+# Minitaller Generadores Código
 
 ## Seteo de los paquetes necesarios para compilar código C++
 
