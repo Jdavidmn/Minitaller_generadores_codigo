@@ -23,6 +23,7 @@ cd build
 ninja
 ```
 **Tome captura del resultado de estos comandos**
+
 13. El comando anterior genera un archivo ejecutable llamado **fibo** con el código compilado, solamente se debe ejecutar este comando para correrlo:
 ```bash
 ./fibo
