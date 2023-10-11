@@ -15,6 +15,7 @@
 unzip fibonacci_series_pkg.zip
 ```
 ***Tome captura del estado actual del directorio**
+
 12. Ejecute los siguientes comandos para compilar el código, asegúrese de tener instalados los paquetes relacionados con meson y ninja para esto, se especifiican en el README del directorio principal:
 ```bash
 meson build
