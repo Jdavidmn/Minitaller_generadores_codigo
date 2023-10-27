@@ -4,7 +4,7 @@
 2. Teniendo el archivo **test_fibonacci.m** abierto, presione la tecla *F5* o presione el botón *Run*. **Tome una captura de la salida de la consola**.
 3. Haga click en la pestaña de *APPS*, luego haga click en **MATLAB Coder**.
 4. Se abrirá la ventana de *MATLAB Coder*, en la primera sección *Select*, en *Generate code for function* escriba **fibonacci_series** y presione ENTER y haga click en *Next*, que está abajo a la derecha.
-5. En la sección *Define* escriba **test_bibonacci** y presione *Next*.
+5. En la sección *Define* escriba **test_fibonacci** y presione *Next*.
 6. En la sección *Check* se realiza la prueba de la función fibonacci_series, simplemente presione el botón **Check for Issues**. Cuando haya finalizado **tome una captura de pantalla del resultado**. Presione ahora el botón *Next*.
 7. En la sección *Generate*, seleccione la casilla de **C++**, en este punto si se estuviera utilizando una tarjeta de desarrollo se selecciona el hardware que corresponda, en nuestro caso se deja la opción por defecto de MATLAB Host Computer. Es **IMPORTANTE** que de click en *More Settings*, *All Settings* y casi al final en *Advanced*, en la opción de *Generate example main* escoja la opción de **Generate and compile an example main function**. Esto genera un archivo de encabezado main y ayuda con el proceso de compilación del código. Ya se puede cerrar la ventana de opciones. De click en **Generate**. **Tome captura del resultado de este proceso**. Presione *Next*.
 8. En la última sección *Finish*, presione el botón **PACKAGE** arriba a la derecha, esto genera una carpeta comprimida con el código C++, guarde este archivo (puede dejar el nombre por defecto) en alguna ubicación de fácil acceso, este se debe transferir al computador local.
